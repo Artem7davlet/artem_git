@@ -1,3 +1,3 @@
 import myname
 name = myname.get_name()
-print("Привет {}".format(name))
+print("Пока {}".format(name))
